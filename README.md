@@ -1,4 +1,4 @@
-## packnet: https://arxiv.org/abs/1711.05769
+## PackNet: https://arxiv.org/abs/1711.05769
 
 Pretrained models are available here: https://uofi.box.com/s/zap2p03tnst9dfisad4u0sfupc0y1fxt  
 Datasets in PyTorch format are available here: https://uofi.box.com/s/ixncr3d85guosajywhf7yridszzg5zsq  
