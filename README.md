@@ -19,6 +19,15 @@ These numbers were obtained by evaluating the models on a Titan X (Pascal).
 Note that numbers on other GPUs might be slightly different (~0.1%) owing to cudnn algorithm selection.  
 https://discuss.pytorch.org/t/slightly-different-results-on-k-40-v-s-titan-x/10064
 
+## Requirements:
+```
+Python 2.7 or 3.xx
+torch==0.2.0.post3
+torchvision==0.1.9
+torchnet (pip install git+https://github.com/pytorch/tnt.git@master)
+tqdm (pip install tqdm)
+```
+
 ## Training:
 Check out the scripts in `src/scripts`.  
 Run all code from the `src/` directory, e.g. `./scripts/run_all.sh`
